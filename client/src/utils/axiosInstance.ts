@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const axiosInstance = axios.create({
-  baseURL: "https://interview-ai-backend-jpck.onrender.com/api",
+  baseURL: "https://intellihire-backend-imgk.onrender.com",
   withCredentials: true, // if you need cookies
 });
 
