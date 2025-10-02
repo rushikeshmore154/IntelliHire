@@ -2,7 +2,7 @@ import axios from "axios";
 
 const axiosInstance = axios.create({
   // baseURL: "http://localhost:5000",
-  baseURL: "https://intellihire-backend-imgk.onrender.com",
+  baseURL: "https://intellihire-backend-imgk.onrender.com/api",
   withCredentials: true, // if you need cookies
 });
 
