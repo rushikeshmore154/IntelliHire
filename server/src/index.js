@@ -16,7 +16,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173", // local dev
-      "https://interview-ai-pual.onrender.com", // deployed frontend
+      "https://intellihire-41dc.onrender.com", // deployed frontend
     ],
     methods: ["GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"], // ✅ includes PATCH
     credentials: true, // allow cookies / Authorization headers
