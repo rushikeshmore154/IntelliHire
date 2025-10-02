@@ -107,7 +107,7 @@ const Login = () => {
             <span className="text-white font-bold text-2xl">IP</span>
           </div>
           <h1 className="text-3xl font-bold text-gray-900 dark:text-white">
-            InterviewPro
+            IntelliHire
           </h1>
           <p className="text-gray-500 dark:text-gray-400">
             Sign in to your account

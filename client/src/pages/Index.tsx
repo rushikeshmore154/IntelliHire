@@ -80,7 +80,7 @@ const Index = () => {
               <div className="w-8 h-8 bg-gradient-to-r from-indigo-500 to-purple-500 dark:from-indigo-700 dark:to-purple-700 rounded-lg flex items-center justify-center">
                 <span className="text-white font-bold text-sm">IP</span>
               </div>
-              <span className="font-bold text-xl text-indigo-700 dark:text-indigo-300">InterviewPro</span>
+              <span className="font-bold text-xl text-indigo-700 dark:text-indigo-300">IntelliHire</span>
             </div>
             <div className="flex items-center space-x-4">
               <Link to="/login">
@@ -253,7 +253,7 @@ const Index = () => {
               <div className="w-8 h-8 bg-gradient-to-r from-indigo-500 to-purple-500 dark:from-indigo-700 dark:to-purple-700 rounded-lg flex items-center justify-center">
                 <span className="text-white font-bold text-sm">IP</span>
               </div>
-              <span className="font-bold text-xl text-indigo-700 dark:text-indigo-300">InterviewPro</span>
+              <span className="font-bold text-xl text-indigo-700 dark:text-indigo-300">IntelliHire</span>
             </div>
             <p className="text-gray-600 dark:text-gray-400 mb-6">
               Empowering professionals to succeed in their career journey
@@ -265,7 +265,7 @@ const Index = () => {
               <a href="#" className="hover:text-indigo-700 dark:hover:text-indigo-400 transition-colors">Help</a>
             </div>
             <div className="mt-8 pt-8 border-t border-gray-200 dark:border-gray-700 text-xs text-gray-500 dark:text-gray-400">
-              © 2024 InterviewPro. All rights reserved.
+              © 2025 IntelliHire. All rights reserved.
             </div>
           </div>
         </div>

@@ -130,7 +130,7 @@ const Register = () => {
             <span className="text-white font-bold text-2xl">IP</span>
           </div>
           <h1 className="text-3xl font-bold text-gray-900 dark:text-white">
-            Join InterviewPro
+            Join IntelliHire
           </h1>
           <p className="text-gray-500 dark:text-gray-400">
             Create your account and start your journey

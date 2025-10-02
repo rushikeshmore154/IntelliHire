@@ -94,7 +94,7 @@ const Navigation = () => {
               <span className="text-white font-bold text-sm">IP</span>
             </div>
             <span className="font-bold text-xl text-indigo-700 dark:text-indigo-300">
-              InterviewPro
+              IntelliHire
             </span>
           </Link>
 
